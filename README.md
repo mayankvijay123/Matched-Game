@@ -2,7 +2,7 @@
 
 ## **1. Description**
 Matched is a simple fun game for testing your memory skills. It has various levels. It also calculates how many moves and time is taken by a player to finish the game.
-This project is made using HTML,CSS &amp; JavaScript.
+This project is made using HTML, CSS &amp; JavaScript.
 
 ## **2. Methodology**
 ![Methodology-Steps](https://user-images.githubusercontent.com/110824426/208254126-a56c4c2a-f7a2-4c4a-9dc6-cfec7f56c2e2.png)
