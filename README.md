@@ -5,6 +5,7 @@ Matched is a simple fun game for testing your memory skills. It has various leve
 This project is made using HTML,CSS &amp; JavaScript.
 
 ## **2. Methodology**
+![Methodology-Steps](https://user-images.githubusercontent.com/110824426/208254126-a56c4c2a-f7a2-4c4a-9dc6-cfec7f56c2e2.png)
 
 ## **3. Input / Output**
 ![snapshot1](https://user-images.githubusercontent.com/110824426/206786547-7a950904-0256-469b-bcf0-216d7a0ca604.PNG)
